@@ -1,4 +1,4 @@
-# Selenide + Allure + JUnit App Smart technical test
+# Selenide + Allure + JUnit + Rest Assured - App Smart technical test
 
 ## To run tests and generate Allure report:
 
